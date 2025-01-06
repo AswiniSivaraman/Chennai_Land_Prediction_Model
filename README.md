@@ -15,10 +15,9 @@ The **Chennai Land Price Prediction Model** is an advanced machine learning proj
 7. [Performance Metrics](#performance-metrics)
 8. [Model Score](#model-score)
 9. [Insights and Learnings](#insights-and-learnings)  
-10. [Future Updates](#future-updates)
-11. [Installation](#installation)
-12. [Streamlit UI](#streamlit-ui)
-13. [AWS Deployment](#aws-deployment)  
+10. [Installation](#installation)
+11. [Streamlit UI](#streamlit-ui)
+12. [AWS Deployment](#aws-deployment)  
 
 ---
 
@@ -171,7 +170,6 @@ Conducted grid search to find the optimal parameters for each algorithm.
 
 ---
 
-
 ## Installation
 
 To set up and run the project, follow these steps:
@@ -180,12 +178,6 @@ To set up and run the project, follow these steps:
 2. Run the Streamlit app using the following command in the terminal:  
    ```bash
    streamlit run UI_Land_Price_Prediction.py
-
----
-
-## Future Updates
-
-- Deploy the user interface on AWS for broader accessibility.  
 
 ---
 
@@ -201,6 +193,7 @@ Below is an illustration of the Streamlit user interface for this project:
 ---
 
 ## AWS Deployment
+- Deployed the user interface on AWS.  
 
 ![image](https://github.com/user-attachments/assets/00198d97-eb4b-4310-b030-7afe7a5f011f)
 
