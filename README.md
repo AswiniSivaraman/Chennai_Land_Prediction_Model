@@ -14,8 +14,9 @@ The **Chennai Land Price Prediction Model** is an advanced machine learning proj
 6. [Model Deployment](#model-deployment)  
 7. [Performance Metrics](#performance-metrics)  
 8. [Insights and Learnings](#insights-and-learnings)  
-9. [Future Updates](#future-updates)  
-10. [Streamlit UI](#streamlit-ui)  
+9. [Future Updates](#future-updates)
+10. [Installation](#installation)
+11. [Streamlit UI](#streamlit-ui)  
 
 ---
 
@@ -153,6 +154,18 @@ Conducted grid search to find the optimal parameters for each algorithm.
 - Developed a deeper understanding of data preprocessing techniques.  
 - Improved skills in hyperparameter tuning and model evaluation.  
 - Gained hands-on experience in deploying machine learning models.  
+
+---
+
+
+## Installation
+
+To set up and run the project, follow these steps:
+
+1. Run the `data_preprocessing.ipynb` notebook by selecting the **Run All** option.    
+2. Run the Streamlit app using the following command in the terminal:  
+   ```bash
+   streamlit run UI_Land_Price_Prediction.py
 
 ---
 
