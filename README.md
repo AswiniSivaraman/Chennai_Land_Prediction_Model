@@ -12,11 +12,12 @@ The **Chennai Land Price Prediction Model** is an advanced machine learning proj
 4. [Project Workflow](#project-workflow)  
 5. [Model Development](#model-development)  
 6. [Model Deployment](#model-deployment)  
-7. [Performance Metrics](#performance-metrics)  
-8. [Insights and Learnings](#insights-and-learnings)  
-9. [Future Updates](#future-updates)
-10. [Installation](#installation)
-11. [Streamlit UI](#streamlit-ui)  
+7. [Performance Metrics](#performance-metrics)
+8. [Model Score](#model-score)
+9. [Insights and Learnings](#insights-and-learnings)  
+10. [Future Updates](#future-updates)
+11. [Installation](#installation)
+12. [Streamlit UI](#streamlit-ui)  
 
 ---
 
@@ -149,6 +150,18 @@ Conducted grid search to find the optimal parameters for each algorithm.
 
 ---
 
+## Model Score
+**Best Model** - XGBoost
+- **Score when training the model using default parameters:**
+  
+  ![image](https://github.com/user-attachments/assets/423fd546-ea92-4877-bb90-93966061e539)
+
+- **Score after training the model with the best parameters from hyperparamter tuning:**
+  
+  ![image](https://github.com/user-attachments/assets/da407d58-35bf-4898-bdec-9ab88779a008)
+
+---
+
 ## Insights and Learnings
 
 - Developed a deeper understanding of data preprocessing techniques.  
@@ -180,6 +193,7 @@ To set up and run the project, follow these steps:
 Below is an illustration of the Streamlit user interface for this project:
 
 ![image](https://github.com/user-attachments/assets/4a5ae51e-b21d-4b04-8a2b-d932c1ddfb8e)
+
 
 ![image](https://github.com/user-attachments/assets/288fd450-4e34-4742-aa9c-cc4d66bf5576)
 
