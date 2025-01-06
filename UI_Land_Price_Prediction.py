@@ -140,7 +140,7 @@ with st.form("Chennai Land Price Prediction Form"):
         room_rating = st.number_input("Room Rating", min_value=float(df['QS_ROOMS'].min()), max_value=5.0, step=0.1, key="roomrating")
         overall_rating = st.number_input("Overall Rating", min_value=float(df['QS_OVERALL'].min()), max_value=5.0, step=0.1, key="overallrating")
         reg_fees = st.number_input("Registration Fees", min_value=int(df['REG_FEE'].min()), max_value=int(df['REG_FEE'].max()), step=100, key="regfees")
-        commision = st.number_input("Commision", min_value=int(df['COMMIS'].min()), max_value=int(df['COMMIS'].max()), step=100, key="commision")
+        commision = st.number_input("Commision", min_value=int(df['COMMIS'].min()), max_value=1000000, step=100, key="commision")
     
     # Age of building
     age_of_building = st.number_input("Age Of Building", min_value=int(df['AGE_OF_BUILDING'].min()), max_value=int(df['AGE_OF_BUILDING'].max()), step=1, key="ageofbuilding")
