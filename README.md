@@ -159,7 +159,6 @@ Conducted grid search to find the optimal parameters for each algorithm.
 ## Future Updates
 
 - Deploy the user interface on AWS for broader accessibility.  
-- Enhance model performance by integrating geospatial data and advanced algorithms.  
 
 ---
 
