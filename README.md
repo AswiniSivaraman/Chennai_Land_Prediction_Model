@@ -17,7 +17,8 @@ The **Chennai Land Price Prediction Model** is an advanced machine learning proj
 9. [Insights and Learnings](#insights-and-learnings)  
 10. [Future Updates](#future-updates)
 11. [Installation](#installation)
-12. [Streamlit UI](#streamlit-ui)  
+12. [Streamlit UI](#streamlit-ui)
+13. [AWS Deployment](#aws-deployment)  
 
 ---
 
@@ -196,5 +197,21 @@ Below is an illustration of the Streamlit user interface for this project:
 
 
 ![image](https://github.com/user-attachments/assets/288fd450-4e34-4742-aa9c-cc4d66bf5576)
+
+---
+
+## AWS Deployment
+
+![image](https://github.com/user-attachments/assets/00198d97-eb4b-4310-b030-7afe7a5f011f)
+
+![image](https://github.com/user-attachments/assets/969d3f99-db38-49f7-b3e3-7b2d147a6974)
+
+![image](https://github.com/user-attachments/assets/a864f702-0f90-4045-8512-feab427f4eb3)
+
+![image](https://github.com/user-attachments/assets/ba8107a6-dcdd-42b8-815e-cb5451a06d98)
+
+
+
+
 
 
